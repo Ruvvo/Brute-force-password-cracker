@@ -24,6 +24,7 @@ A Function Called: ___Password_Cracker___
 - The random module is used here to randomise the checking from the defined set.
 
 If matched, it then appends to a final 'cracked_password' list, and finally returns it with a print statement.
+<br>
 ![Screenshot2](https://user-images.githubusercontent.com/76782671/222561206-c680da51-5c2f-4f9c-bd2b-076fccd20e59.png)
 
 
